@@ -1,5 +1,5 @@
 import Image from "next/image";
-import pfp from '@/assets/images/profile_picture.png'
+import pfp from '@/public/images/profile_picture.png'
 
 export default function Home() {
   return (
@@ -9,7 +9,7 @@ export default function Home() {
 
         <div className="mx-5">
           <p className="text-black text-3xl font-bold font-work-sans">Emirhan Ak</p>
-          <p className="text-black">Electrical and Electronics Engineer</p>
+          <p className="text-black text-md">Electrical and Electronics Engineer</p>
         </div>
       </div>
 

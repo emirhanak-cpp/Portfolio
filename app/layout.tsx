@@ -6,42 +6,42 @@ import localFont from 'next/font/local'
 const workSans = localFont({
   src: [
     {
-      path: '../assets/fonts/WorkSans-Black.ttf',
+      path: '../public/fonts/WorkSans-Black.ttf',
       weight: '900',
       style: 'normal'
     },
     {
-      path: '../assets/fonts/WorkSans-ExtraBold.ttf',
+      path: '../public/fonts/WorkSans-ExtraBold.ttf',
       weight: '800',
       style: 'normal'
     },
     {
-      path: '../assets/fonts/WorkSans-Bold.ttf',
+      path: '../public/fonts/WorkSans-Bold.ttf',
       weight: '700',
       style: 'normal'
     },
     {
-      path: '../assets/fonts/WorkSans-SemiBold.ttf',
+      path: '../public/fonts/WorkSans-SemiBold.ttf',
       weight: '600',
       style: 'normal'
     },
     {
-      path: '../assets/fonts/WorkSans-Medium.ttf',
+      path: '../public/fonts/WorkSans-Medium.ttf',
       weight: '500',
       style: 'normal'
     },
     {
-      path: '../assets/fonts/WorkSans-Regular.ttf',
+      path: '../public/fonts/WorkSans-Regular.ttf',
       weight: '400',
       style: 'normal'
     },
     {
-      path: '../assets/fonts/WorkSans-Thin.ttf',
+      path: '../public/fonts/WorkSans-Thin.ttf',
       weight: '200',
       style: 'normal'
     },
     {
-      path: '../assets/fonts/WorkSans-ExtraLight.ttf',
+      path: '../public/fonts/WorkSans-ExtraLight.ttf',
       weight: '100',
       style: 'normal'
     },
